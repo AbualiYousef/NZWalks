@@ -1,11 +1,11 @@
 <h1>NZWalks: New Zealand Walks & Regions Tracking Web API</h1>
-<p>In this repository, I have successfully completed the Udemy course listed below, equipping myself with the knowledge and skills to create an ASP.Net Core Web API using Entity Framework Core, SQL Server, and implementing robust Authentication & Authorization, all within the .NET 7 framework.</p>
-###
+    <p>In this repository, I have successfully completed the Udemy course listed below, equipping myself with the knowledge and skills to create an ASP.Net Core Web API using Entity Framework Core, SQL Server, and implementing robust Authentication & Authorization, all within the .NET 7 framework.</p>
+    <h2>Course Link</h2>
+    <p><a href="https://www.udemy.com/share/106wyO3@FNiotWd5x0c81JBTs-tfZpqvDOAnD--EtWsQRymAJP7AZvo8ziwp98lYsWoPfsaBSQ==/">Udemy Course Link</a></p>
     <h2>Original Repository Link</h2>
     <p><a href="https://github.com/sameer8saini/NZWalks-Solution/tree/master">https://github.com/sameer8saini/NZWalks-Solution/tree/master</a></p>
-###
     <h2>Course Objectives</h2>
-    <ol>
+    <ul style="list-style:disc">
         <li>Master the comprehensive understanding of REST APIs by developing a Web API using ASP.NET Core within the context of .NET 7.</li>
         <li>Demonstrate a profound grasp of the fundamental principles of REST.</li>
         <li>Become well-acquainted with Dependency Injection and its manifold advantages.</li>
@@ -24,4 +24,6 @@
         <li>Confidently add Authentication and Authorization to your ASP.NET Core API and create, read, and write user data for testing purposes, typically done through Postman.</li>
         <li>Effortlessly incorporate ASP.NET JWT Authentication into SwaggerUI.</li>
         <li>Add advanced functionality like Filtering, Sorting, and Pagination to your ASP.NET Core Web API with ease.</li>
-    </ol>
+    </ul>
+</body>
+</html>
