@@ -1,0 +1,21 @@
+﻿@model NZWalks.UI.Models.AddRegionViewModel
+
+<h1 class="mt-3">Add Region</h1>
+
+<form method="post">
+    <div class="mt-3">
+        <label class="form-label">Code</label>
+        <input class="form-control" type="text" asp-for="Code" />
+    </div>
+    <div class="mt-3">
+        <label class="form-label">Name</label>
+        <input class="form-control" type="text" asp-for="Name" />
+    </div>
+    <div>
+        <label class="form-label">Image URL</label>
+        <input class="form-control" type="text" asp-for="RegionImageUrl" />
+    </div>
+    <div class="mt-3">
+        <button class="btn btn-primary" type="submit">Add</button>
+    </div>
+</form> 

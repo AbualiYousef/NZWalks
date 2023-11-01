@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="app-nzwalks-middleeast-dev-001" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\ABUALI\\source\\repos\\NZWalks\\NZWalks\.API\\obj\\Release\\net7\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="NZWalks.API.Data.NZWalksAuthDbContext" description="" value="Data Source=tcp:nzwalksadmin.database.windows.net,1433;Initial Catalog=sqldb-nzwalks-middleease-dev-001;User Id=nzwalksadmin@nzwalksadmin;Password=Admin@123" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\ABUALI\\source\\repos\\NZWalks\\NZWalks\.API\\obj\\Release\\net7\.0\\PubTmp\\EFSQLScripts\\NZWalks\.API\.Data\.NZWalksAuthDbContext\.sql$" />
+  </parameter>
+  <parameter name="NZWalks.API.Data.NZWalksDbContext" description="" value="Data Source=tcp:nzwalksadmin.database.windows.net,1433;Initial Catalog=sqldb-nzwalks-middleease-dev-001;User Id=nzwalksadmin@nzwalksadmin;Password=Admin@123" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\ABUALI\\source\\repos\\NZWalks\\NZWalks\.API\\obj\\Release\\net7\.0\\PubTmp\\EFSQLScripts\\NZWalks\.API\.Data\.NZWalksDbContext\.sql$" />
+  </parameter>
+</parameters>

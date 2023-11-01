@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\ABUALI\source\repos\NZWalks\NZWalks.API\obj\Release\net7.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\ABUALI\source\repos\NZWalks\NZWalks.API\obj\Release\net7.0\PubTmp\EFSQLScripts\NZWalks.API.Data.NZWalksAuthDbContext.sql" />
+  <dbfullsql path="C:\Users\ABUALI\source\repos\NZWalks\NZWalks.API\obj\Release\net7.0\PubTmp\EFSQLScripts\NZWalks.API.Data.NZWalksDbContext.sql" />
+</sitemanifest>
